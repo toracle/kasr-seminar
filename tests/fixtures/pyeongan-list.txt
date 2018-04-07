@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]> <html lang="ko-KR" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="ko-KR" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="ko-KR" class="no-ie no-js"> <!--<![endif]-->
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="pingback" href="http://pyeong-an.com/xmlrpc.php" />
+	<title>설교 말씀 원고 &#8211; 당진 평안교회</title>
+
+<!-- WordPress KBoard plugin 5.3 - http://www.cosmosfarm.com/products/kboard -->
+<link rel="alternate" href="http://pyeong-an.com/wp-content/plugins/kboard/rss.php" type="application/rss+xml" title="당진 평안교회 &raquo; KBoard 통합 피드">
+<!-- WordPress KBoard plugin 5.3 - http://www.cosmosfarm.com/products/kboard -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="당진 평안교회 &raquo; 피드" href="http://pyeong-an.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="당진 평안교회 &raquo; 댓글 피드" href="http://pyeong-an.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="당진 평안교회 &raquo; iCal Feed" href="http://pyeong-an.com/events/?ical=1" />
+<link rel="alternate" type="application/rss+xml" title="당진 평안교회 &raquo; 설교 말씀 원고 댓글 피드" href="http://pyeong-an.com/%ec%84%a4%ea%b5%90-%eb%a7%90%ec%94%80-%ec%9b%90%ea%b3%a0/feed/" />
+		<script type="text/javascript" src="http://ff.kis.v2.scr.kaspersky-labs.com/7A4C6917-8EFC-8540-B41F-68F7B95E93B7/main.js" charset="UTF-8"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/pyeong-an.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='validate-engine-css-css'  href='http://pyeong-an.com/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://pyeong-an.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='http://pyeong-an.com/wp-content/plugins/layerslider/static/css/layerslider.css?ver=5.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//pyeong-an.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//pyeong-an.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//pyeong-an.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpv-gfonts-css'  href='//fonts.googleapis.com/css?family=Raleway%3Abold%2Cnormal%2C300%2C600%7CDroid+Sans%3Aitalic%2Cnormal%2Cbold%7CAverage%3Anormal%2Cbold&#038;subset=latin&#038;ver=19' type='text/css' media='all' />
+<link rel='stylesheet' id='front-magnific-popup-css'  href='http://pyeong-an.com/wp-content/themes/church-event/wpv_theme/assets/css/magnific.css?ver=4.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='front-all-css'  href='http://pyeong-an.com/wp-content/themes/church-event/cache/all.css?ver=1426208138' type='text/css' media='all' />
+<style id='front-all-inline-css' type='text/css'>
+.page-id-1849 .page-header .title {
+padding-top: 60px;
+}
+.wpv-single-event-after-details .sep{
+margin: 10px 0;
+}
+
+
+</style>
+<link rel='stylesheet' id='kboard-comments-skin-default-css'  href='http://pyeong-an.com/wp-content/plugins/kboard-comments/skin/default/style.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='kboard-editor-media-css'  href='http://pyeong-an.com/wp-content/plugins/kboard/template/css/editor_media.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://pyeong-an.com/wp-content/plugins/kboard/font-awesome/css/font-awesome.min.css?ver=5.3' type='text/css' media='all' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://pyeong-an.com/wp-content/plugins/kboard/font-awesome/css/font-awesome-ie7.min.css?ver=5.3' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='kboard-skin-default-css'  href='http://pyeong-an.com/wp-content/plugins/kboard/skin/default/style.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='kboard-skin-venus-webzine-css'  href='http://pyeong-an.com/wp-content/plugins/kboard/skin/venus-webzine/style.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='kboard-skin-thumbnail-css'  href='http://pyeong-an.com/wp-content/plugins/kboard/skin/thumbnail/style.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='kboard-skin-ocean-download-css'  href='http://pyeong-an.com/wp-content/plugins/kboard/skin/ocean-download/style.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='kboard-skin-customer-css'  href='http://pyeong-an.com/wp-content/plugins/kboard/skin/customer/style.css?ver=5.3' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var kboard_comments_localize_strings = {"reply":"\ub2f5\uae00","cancel":"\ucde8\uc18c","please_enter_the_author":"\uc791\uc131\uc790\uba85\uc744 \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_password":"\ube44\ubc00\ubc88\ud638\ub97c \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_CAPTCHA":"\ubcf4\uc548\ucf54\ub4dc\ub97c \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_content":"\ub0b4\uc6a9\uc744 \uc785\ub825\ud574\uc8fc\uc138\uc694.","are_you_sure_you_want_to_delete":"\uc0ad\uc81c \ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?","please_wait":"\uc7a0\uc2dc\ub9cc \uae30\ub2e4\ub824\uc8fc\uc138\uc694."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/plugins/layerslider/static/js/greensock.js?ver=1.11.8'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/plugins/layerslider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.5.0'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/plugins/layerslider/static/js/layerslider.transitions.js?ver=5.5.0'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/plugins/vamtam-love-it//includes/js/jquery.cookie.js?ver=4.9.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var love_it_vars = {"ajaxurl":"http:\/\/pyeong-an.com\/wp-admin\/admin-ajax.php","nonce":"8606480a8d","already_loved_message":"You have already loved this item.","error_message":"Sorry, there was a problem processing your request.","logged_in":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/plugins/vamtam-love-it//includes/js/love-it.js?ver=4.9.3'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/themes/church-event/vamtam/assets/js/modernizr.min.js?ver=4.9.3'></script>
+<link rel='https://api.w.org/' href='http://pyeong-an.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pyeong-an.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pyeong-an.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.3" />
+<meta name="generator" content="WooCommerce 2.6.1" />
+<link rel="canonical" href="http://pyeong-an.com/%ec%84%a4%ea%b5%90-%eb%a7%90%ec%94%80-%ec%9b%90%ea%b3%a0/" />
+<link rel='shortlink' href='http://pyeong-an.com/?p=22837' />
+<link rel="alternate" type="application/json+oembed" href="http://pyeong-an.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpyeong-an.com%2F%25ec%2584%25a4%25ea%25b5%2590-%25eb%25a7%2590%25ec%2594%2580-%25ec%259b%2590%25ea%25b3%25a0%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://pyeong-an.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpyeong-an.com%2F%25ec%2584%25a4%25ea%25b5%2590-%25eb%25a7%2590%25ec%2594%2580-%25ec%259b%2590%25ea%25b3%25a0%2F&#038;format=xml" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="http://pyeong-an.com"><link rel="https://theeventscalendar.com" href="http://pyeong-an.com/wp-json/tribe/events/v1/" /><script type='text/javascript' src='http://pyeong-an.com/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
+</head>
+<body class="page-template-default page page-id-22837 layout-full tribe-no-js tribe-bar-is-disabled full pagination-load-more sticky-header-type-normal wpv-not-scrolled no-page-header cbox-share-twitter cbox-share-facebook cbox-share-googleplus cbox-share-pinterest has-header-slider has-header-sidebars no-footer-sidebars responsive-layout no-breadcrumbs no-slider-button-thumbnails sticky-header">
+	<span id="top"></span>
+		<div id="page" class="main-container">
+
+		<div class="fixed-header-box layout-logo-menu">
+	<header class="main-header layout-logo-menu">
+		
+		<div class="limit-wrapper">
+	<div class="header-contents">
+		<div class="first-row">
+			<div class="logo-wrapper">
+	<a href="#" id="mp-menu-trigger" class="icon-b" data-icon="&#57801;">Open/Close Menu</a>
+		<a href="http://pyeong-an.com" title="당진 평안교회" class="logo " style="min-width:250px">			<img src="http://pyeong-an.com/wp-content/uploads/2015/01/KakaoTalk_20150110_031413178.jpg" alt="당진 평안교회" class="normal-logo" height="49.5" style="padding: 12.75px 0; max-height: 49.5px;"/>
+							<img src="http://pyeong-an.com/wp-content/uploads/2015/01/KakaoTalk_20150110_031413178.jpg" alt="당진 평안교회" class="alternative-logo" height="99" style="padding: 12.75px 0; max-height: 49.5px;"/>
+						</a>
+				<span class="logo-tagline">평안함이 있는 교회</span>
+		<div class="mobile-logo-additions">
+								<a class="vamtam-cart-dropdown-link icon theme no-dropdown" href="http://pyeong-an.com/%ec%9e%a5%eb%b0%94%ea%b5%ac%eb%8b%88/" style="display:none">
+				<span class="icon theme">&#57453;</span>
+				<span class="products cart-empty">...</span>
+			</a>
+							<button class="header-search icon wpv-overlay-search-trigger">&#57645;</button>
+			</div>
+</div>		</div>
+
+		<div class="second-row has-search">
+			<div id="menus">
+				<nav id="main-menu">
+		<a href="#main" title="Skip to content" class="visuallyhidden">Skip to content</a>
+	<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-5" class="home menu-item menu-item-type-custom menu-item-object-custom menu-item-5"><a href="/"><span>HОМЕ</span></a></li>
+<li id="menu-item-22384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22384"><a href="http://pyeong-an.com/pages/about-us/"><span>교회 소개</span></a>
+<div class='sub-menu-wrapper'><ul class="sub-menu">
+	<li id="menu-item-22790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22790"><a href="http://pyeong-an.com/?page_id=22179"><span>교회 소개</span></a></li>
+	<li id="menu-item-22380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22380"><a href="http://pyeong-an.com/pages/staff/"><span>담임목사 소개</span></a></li>
+	<li id="menu-item-22379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22379"><a href="http://pyeong-an.com/pages/statement-of-faith/"><span>평안교회 연혁</span></a></li>
+	<li id="menu-item-22382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22382"><a href="http://pyeong-an.com/pages/contact-us/"><span>예배순서 및 길 안내</span></a></li>
+	<li id="menu-item-22445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22445"><a href="http://pyeong-an.com/ministries/"><span>기관 및 조직</span></a></li>
+	<li id="menu-item-22565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22565"><a href="http://pyeong-an.com/%eb%8b%b4%ec%9e%84%eb%aa%a9%ec%82%ac-%ec%83%81%eb%8b%b4/"><span>담임목사 상담</span></a></li>
+</ul></div>
+</li>
+<li id="menu-item-22449" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-22449"><a href="http://pyeong-an.com/sermons/"><span>설교 말씀</span></a>
+<div class='sub-menu-wrapper'><ul class="sub-menu">
+	<li id="menu-item-22839" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-22837 current_page_item menu-item-22839"><a href="http://pyeong-an.com/%ec%84%a4%ea%b5%90-%eb%a7%90%ec%94%80-%ec%9b%90%ea%b3%a0/"><span>말씀 원고</span></a></li>
+	<li id="menu-item-22840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22840"><a href="http://pyeong-an.com/?page_id=7123"><span>설교 영상</span></a></li>
+</ul></div>
+</li>
+<li id="menu-item-22426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22426"><a href="http://pyeong-an.com/portfolio-layouts/masonry-style/"><span>교회 앨범</span></a>
+<div class='sub-menu-wrapper'><ul class="sub-menu">
+	<li id="menu-item-22413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22413"><a href="http://pyeong-an.com/portfolio-layouts/masonry-style/"><span>사진 및 영상</span></a></li>
+</ul></div>
+</li>
+<li id="menu-item-22600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22600"><a href="http://pyeong-an.com/%ec%bb%a4%eb%ae%a4%eb%8b%88%ed%8b%b0/"><span>평안 커뮤니티</span></a>
+<div class='sub-menu-wrapper'><ul class="sub-menu">
+	<li id="menu-item-22843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22843"><a href="http://pyeong-an.com/%ea%b5%90%ed%9a%8c-%ec%86%8c%ec%8b%9d/"><span>교회 소식</span></a></li>
+	<li id="menu-item-22687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22687"><a href="http://pyeong-an.com/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90/"><span>평안의 일상</span></a></li>
+	<li id="menu-item-22686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22686"><a href="http://pyeong-an.com/%ec%a7%88%eb%ac%b8%eb%8b%b5%eb%b3%80-%ea%b2%8c%ec%8b%9c%ed%8c%90/"><span>질문&#038;답변</span></a></li>
+	<li id="menu-item-22677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22677"><a href="http://pyeong-an.com/%ea%b1%b4%ec%9d%98%ec%82%ac%ed%95%ad/"><span>건의사항</span></a></li>
+	<li id="menu-item-22685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22685"><a href="http://pyeong-an.com/%ec%9e%90%eb%a3%8c%ec%8b%a4/"><span>자료실</span></a></li>
+	<li id="menu-item-22998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22998"><a href="http://pyeong-an.com/%ec%b0%ac%ec%96%91%eb%b0%a9/"><span>찬양방</span></a></li>
+	<li id="menu-item-23181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23181"><a href="http://pyeong-an.com/%ea%b8%b0%eb%8f%84%eb%b0%a9/"><span>간증과 기도</span></a></li>
+	<li id="menu-item-23061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23061"><a href="http://pyeong-an.com/%ea%b0%84%ec%a6%9d-%ec%98%81%ec%83%81/"><span>간증 영상</span></a></li>
+	<li id="menu-item-23159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23159"><a href="http://pyeong-an.com/%ed%8f%89%ec%95%88%ec%9d%98-%ec%9b%83%ec%9d%8c/"><span>평안의 웃음</span></a></li>
+</ul></div>
+</li>
+<li id="menu-item-22995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22995"><a href="http://pyeong-an.com/%ec%83%9d%eb%aa%85%ec%9d%98-%ec%8b%9c%eb%83%87%ea%b0%80/"><span>생명의 시냇가</span></a></li>
+</ul></div></nav>			</div>
+		</div>
+
+		<div class="cart-dropdown hidden">
+	<div class="cart-dropdown-inner">
+		<a class="vamtam-cart-dropdown-link icon theme" href="#">
+			<span class="icon theme">&#57453;</span>
+			<span class="products cart-empty">...</span>
+		</a>
+		<div class="widget woocommerce widget_shopping_cart">
+			<div class="widget_shopping_cart_content"></div>
+		</div>
+	</div>
+</div>
+					<div class="search-wrapper">
+				
+<button class="header-search icon wpv-overlay-search-trigger">&#57645;</button>			</div>
+		
+			</div>
+</div>	</header>
+
+	</div><!-- / .fixed-header-box -->
+<div class="shadow-bottom"></div>
+		
+		<div class="boxed-layout">
+			<div class="pane-wrapper clearfix">
+				<header class="header-middle row normal type-slider" style="">
+			<div id="header-slider-container" class="layerslider">
+			<div class="header-slider-wrapper">
+				<div class='layerslider-fixed-wrapper' style='height:334px'> <script data-cfasync="false" type="text/javascript">var lsjQuery = jQuery;</script><script data-cfasync="false" type="text/javascript"> lsjQuery(document).ready(function() { if(typeof lsjQuery.fn.layerSlider == "undefined") { lsShowNotice('layerslider_39_1','jquery'); } else { lsjQuery("#layerslider_39_1").layerSlider({startInViewport: false, skinsPath: 'http://pyeong-an.com/wp-content/plugins/layerslider/static/skins/'}) } }); </script><div id="layerslider_39_1" class="ls-wp-container" style="width:1586px;height:334px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls=" transition2d: all;"><img src="http://pyeong-an.com/wp-content/uploads/2015/01/KakaoTalk_20150117_214809238.jpg" class="ls-bg" alt="KakaoTalk_20150117_214809238" /></div></div></div><div style="height:1px;margin-top:-1px"></div>			</div>
+		</div>
+		</header>				<div id="main-content">
+										<!-- #main (do not remove this comment) -->
+					<div id="main" role="main" class="layout-full">
+												<div class="limit-wrapper">
+
+
+	<div class="row page-wrapper">
+		
+		<article id="post-22837" class="full post-22837 page type-page status-publish hentry">
+						<div class="page-content">
+				
+				<div id="kboard-default-list">
+	
+	<!-- 게시판 정보 시작 -->
+	<div class="kboard-list-header">
+					<div class="kboard-total-count">
+				전체 155			</div>
+				
+		<div class="kboard-sort">
+			<form id="kboard-sort-form-7" method="get" action="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1">
+				<input type="hidden" name="pageid" value="1"><input type="hidden" name="mod" value="list"><input type="hidden" name="kboard_list_sort_remember" value="7">				
+				<select name="kboard_list_sort" onchange="jQuery('#kboard-sort-form-7').submit();">
+					<option value="newest" selected>최신순</option>
+					<option value="best">추천순</option>
+					<option value="viewed">조회순</option>
+					<option value="updated">업데이트순</option>
+				</select>
+			</form>
+		</div>
+	</div>
+	<!-- 게시판 정보 끝 -->
+	
+		
+	<!-- 리스트 시작 -->
+	<div class="kboard-list">
+		<table>
+			<thead>
+				<tr>
+					<td class="kboard-list-uid">번호</td>
+					<td class="kboard-list-title">제목</td>
+					<td class="kboard-list-user">작성자</td>
+					<td class="kboard-list-date">작성일</td>
+					<td class="kboard-list-vote">추천</td>
+					<td class="kboard-list-view">조회</td>
+				</tr>
+			</thead>
+			<tbody>
+												<tr class="">
+					<td class="kboard-list-uid">155</td>
+					<td class="kboard-list-title">
+						<a href="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1&mod=document&uid=693">
+							<div class="kboard-default-cut-strings">
+																								2018.3.25.종려주일.  마음에 입성하신 예수님(고전2:16)								<span class="kboard-comments-count">(1)</span>
+							</div>
+							<div class="kboard-mobile-contents">
+								<span class="contents-item">장성진</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">2018.03.25</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">추천 3</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">조회 22</span>
+							</div>
+						</a>
+					</td>
+					<td class="kboard-list-user">장성진</td>
+					<td class="kboard-list-date">2018.03.25</td>
+					<td class="kboard-list-vote">3</td>
+					<td class="kboard-list-view">22</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">154</td>
+					<td class="kboard-list-title">
+						<a href="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1&mod=document&uid=690">
+							<div class="kboard-default-cut-strings">
+																								2018.3.18.주일.  인생은 생각이 중요합니다.② 롬8:5-6								<span class="kboard-comments-count"></span>
+							</div>
+							<div class="kboard-mobile-contents">
+								<span class="contents-item">장성진</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">2018.03.19</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">추천 2</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">조회 26</span>
+							</div>
+						</a>
+					</td>
+					<td class="kboard-list-user">장성진</td>
+					<td class="kboard-list-date">2018.03.19</td>
+					<td class="kboard-list-vote">2</td>
+					<td class="kboard-list-view">26</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">153</td>
+					<td class="kboard-list-title">
+						<a href="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1&mod=document&uid=688">
+							<div class="kboard-default-cut-strings">
+																								.2018.3.11.주일. 우리는 하나입니다. (겔37:17)								<span class="kboard-comments-count"></span>
+							</div>
+							<div class="kboard-mobile-contents">
+								<span class="contents-item">장성진</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">2018.03.11</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">추천 0</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">조회 16</span>
+							</div>
+						</a>
+					</td>
+					<td class="kboard-list-user">장성진</td>
+					<td class="kboard-list-date">2018.03.11</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">16</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">152</td>
+					<td class="kboard-list-title">
+						<a href="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1&mod=document&uid=687">
+							<div class="kboard-default-cut-strings">
+																								2018.2.25.주일. 믿는 만큼 알고, 아는 만큼 믿는다. 요3:16								<span class="kboard-comments-count"></span>
+							</div>
+							<div class="kboard-mobile-contents">
+								<span class="contents-item">장성진</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">2018.03.04</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">추천 3</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">조회 40</span>
+							</div>
+						</a>
+					</td>
+					<td class="kboard-list-user">장성진</td>
+					<td class="kboard-list-date">2018.03.04</td>
+					<td class="kboard-list-vote">3</td>
+					<td class="kboard-list-view">40</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">151</td>
+					<td class="kboard-list-title">
+						<a href="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1&mod=document&uid=686">
+							<div class="kboard-default-cut-strings">
+																								2018.2.25.주일. 온전한 믿음은 사랑입니다. 마22:34-40. .								<span class="kboard-comments-count"></span>
+							</div>
+							<div class="kboard-mobile-contents">
+								<span class="contents-item">장성진</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">2018.03.02</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">추천 0</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">조회 13</span>
+							</div>
+						</a>
+					</td>
+					<td class="kboard-list-user">장성진</td>
+					<td class="kboard-list-date">2018.03.02</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">13</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">150</td>
+					<td class="kboard-list-title">
+						<a href="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1&mod=document&uid=685">
+							<div class="kboard-default-cut-strings">
+																								2018.2.18.주일.  나의 신앙 고백과 간증  시23:1-6								<span class="kboard-comments-count"></span>
+							</div>
+							<div class="kboard-mobile-contents">
+								<span class="contents-item">장성진</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">2018.02.18</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">추천 0</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">조회 22</span>
+							</div>
+						</a>
+					</td>
+					<td class="kboard-list-user">장성진</td>
+					<td class="kboard-list-date">2018.02.18</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">22</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">149</td>
+					<td class="kboard-list-title">
+						<a href="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1&mod=document&uid=684">
+							<div class="kboard-default-cut-strings">
+																								2018.2.11.주일.  복의 근원이 되세요. 갈3:6-9.								<span class="kboard-comments-count"></span>
+							</div>
+							<div class="kboard-mobile-contents">
+								<span class="contents-item">장성진</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">2018.02.11</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">추천 0</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">조회 21</span>
+							</div>
+						</a>
+					</td>
+					<td class="kboard-list-user">장성진</td>
+					<td class="kboard-list-date">2018.02.11</td>
+					<td class="kboard-list-vote">0</td>
+					<td class="kboard-list-view">21</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">148</td>
+					<td class="kboard-list-title">
+						<a href="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1&mod=document&uid=681">
+							<div class="kboard-default-cut-strings">
+																								2018.2.4.주일. 잘 사는 사람들(약4:13-17)								<span class="kboard-comments-count"></span>
+							</div>
+							<div class="kboard-mobile-contents">
+								<span class="contents-item">장성진</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">2018.02.04</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">추천 2</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">조회 41</span>
+							</div>
+						</a>
+					</td>
+					<td class="kboard-list-user">장성진</td>
+					<td class="kboard-list-date">2018.02.04</td>
+					<td class="kboard-list-vote">2</td>
+					<td class="kboard-list-view">41</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">147</td>
+					<td class="kboard-list-title">
+						<a href="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1&mod=document&uid=679">
+							<div class="kboard-default-cut-strings">
+																								2018.1.21.주일. 예수님과 동행합시다. 눅2;41-51.     찬송가 497장								<span class="kboard-comments-count">(1)</span>
+							</div>
+							<div class="kboard-mobile-contents">
+								<span class="contents-item">장성진</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">2018.01.21</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">추천 2</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">조회 28</span>
+							</div>
+						</a>
+					</td>
+					<td class="kboard-list-user">장성진</td>
+					<td class="kboard-list-date">2018.01.21</td>
+					<td class="kboard-list-vote">2</td>
+					<td class="kboard-list-view">28</td>
+				</tr>
+												<tr class="">
+					<td class="kboard-list-uid">146</td>
+					<td class="kboard-list-title">
+						<a href="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1&mod=document&uid=678">
+							<div class="kboard-default-cut-strings">
+																								2018.1.14.주일.  새해는 새롭게. (엡4:21-25)								<span class="kboard-comments-count"></span>
+							</div>
+							<div class="kboard-mobile-contents">
+								<span class="contents-item">장성진</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">2018.01.15</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">추천 1</span>
+								<span class="contents-separator">|</span>
+								<span class="contents-item">조회 26</span>
+							</div>
+						</a>
+					</td>
+					<td class="kboard-list-user">장성진</td>
+					<td class="kboard-list-date">2018.01.15</td>
+					<td class="kboard-list-vote">1</td>
+					<td class="kboard-list-view">26</td>
+				</tr>
+											</tbody>
+		</table>
+	</div>
+	<!-- 리스트 끝 -->
+	
+	<!-- 페이징 시작 -->
+	<div class="kboard-pagination">
+		<ul class="kboard-pagination-pages">
+			<li class="active"><a href="?pageid=1&mod=list" onclick="return false">1</a></li><li><a href="?pageid=2&mod=list">2</a></li><li><a href="?pageid=3&mod=list">3</a></li><li><a href="?pageid=4&mod=list">4</a></li><li><a href="?pageid=5&mod=list">5</a></li><li><a href="?pageid=6&mod=list">6</a></li><li><a href="?pageid=7&mod=list">7</a></li><li><a href="?pageid=8&mod=list">8</a></li><li><a href="?pageid=9&mod=list">9</a></li><li><a href="?pageid=10&mod=list">10</a></li><li class="next-page"><a href="?pageid=2&mod=list">»</a></li><li class="last-page"><a href="?pageid=16&mod=list">마지막</a></li>		</ul>
+	</div>
+	<!-- 페이징 끝 -->
+	
+	<!-- 검색폼 시작 -->
+	<div class="kboard-search">
+		<form id="kboard-search-form-7" method="get" action="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1">
+			<input type="hidden" name="pageid" value="1"><input type="hidden" name="mod" value="list">			
+			<select name="target">
+				<option value="">모두</option>
+				<option value="title">제목</option>
+				<option value="content">내용</option>
+				<option value="member_display">작성자</option>
+			</select>
+			<input type="text" name="keyword" value="">
+			<button type="submit" class="kboard-default-button-small">검색</button>
+		</form>
+	</div>
+	<!-- 검색폼 끝 -->
+	
+		<!-- 버튼 시작 -->
+	<div class="kboard-control">
+		<a href="/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/?pageid=1&mod=editor" class="kboard-default-button-small">글쓰기</a>
+	</div>
+	<!-- 버튼 끝 -->
+		
+	<div class="kboard-default-poweredby">
+		<a href="http://www.cosmosfarm.com/products/kboard" onclick="window.open(this.href);return false;" title="의미있는 워드프레스 게시판">Powered by KBoard</a>
+	</div>
+</div>											</div>
+
+			
+		</article>
+
+		
+	</div>
+
+					</div> <!-- .limit-wrapper -->
+
+				</div><!-- / #main (do not remove this comment) -->
+
+			</div><!-- #main-content -->
+
+							<footer class="main-footer">
+									</footer>
+
+				
+									<div class="copyrights">
+						<div class="limit-wrapper">
+							<div class="row">
+								<div class="row "><div class="wpv-grid grid-1-3  wpv-first-level first unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-febed35afa24c2fab762a44cb223be50" ><div class="push" style='height:10px'></div><h5 style="color: #ffffff;">© 당진 평안교회 | since 1999.</h5><div class="push" style='height:10px'></div></div>
+
+
+<div class="wpv-grid grid-1-3  wpv-first-level unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-0dc254eb15f16bb4b743cd44738d625c" ><div class="push" style='height:10px'></div>
+<h5 style="color: #ffffff; text-align: center;"><a href="#" class="wpv-scroll-to-top">맨 위로</a> ↑</h5></div>
+
+
+<div class="wpv-grid grid-1-3  wpv-first-level unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-5e91adc5c6608d509e000ed3f345f0cb" ><div class="push" style='height:10px'></div><h5 style="color: #ffffff;  text-align: right;">Follow us:     <a href="#"><span class='icon shortcode  ' style='font-size:18px !important;color:#ffffff;'>&#58156;</span></a>     <a href="#"><span class='icon shortcode  ' style='font-size:18px !important;color:#ffffff;'>&#58160;</span></a>     <a href="#"><span class='icon shortcode  ' style='font-size:18px !important;color:#ffffff;'>&#58195;</span></a>     <a href="#"><span class='icon shortcode  ' style='font-size:18px !important;color:#ffffff;'>&#58163;</span></a>    <a href="#" class="wpv-overlay-search-trigger"><span class='icon shortcode  ' style='font-size:18px !important;color:#ffffff;'>&#57645;</span></a></h5></div></div>
+							</div>
+						</div>
+					</div>
+							
+		</div><!-- / .pane-wrapper -->
+
+	</div><!-- / .boxed-layout -->
+</div><!-- / #page -->
+
+<div id="wpv-overlay-search">
+	<form action="http://pyeong-an.com/" class="searchform" method="get" role="search" novalidate="">
+		<input type="text" required="required" placeholder="Search..." name="s" value="" />
+		<button type="submit" class="icon theme">&#58889;</button>
+			</form>
+</div>
+
+
+<script id='wpvpm-menu-item' type='text/html'><li>
+	<% if(children.length > 0) { %>
+		<a href="#" class="has-children <%= _.escape(classes.join(' ')) %>" title="<%= _.escape(attr_title) %>"><%= title %></a>
+		<div class="mp-level">
+			<div class="mp-level-header">
+				<h2><%= title %></h2>
+				<a class="mp-back" href="#"><%= WpvPushMenu.back %></a>
+			</div>
+			<ul>
+				<% if(! (/^\s*$/.test(url)) ) { %>
+					<li><a href="<%= _.escape(url) %>" class="<%= _.escape(classes.join(' ')) %>" title="<%= _.escape(attr_title) %>"><%= title %></a></li>
+				<% } %>
+				<%= content %>
+			</ul>
+		</div>
+	<% } else { %>
+		<a href="<%= _.escape(url) %>" class="<%= _.escape(classes.join(' ')) %>" title="<%= _.escape(attr_title) %>"><%= title %></a>
+	<% } %>
+</li></script><script id='wpvpm-menu-root' type='text/html'><nav id="mp-menu" class="mp-menu">
+	<ul>
+		<%= content %>
+	</ul>
+</nav>
+</script>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script type='text/javascript'> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["\uc77c\uc694\uc77c","\uc6d4\uc694\uc77c","\ud654\uc694\uc77c","\uc218\uc694\uc77c","\ubaa9\uc694\uc77c","\uae08\uc694\uc77c","\ud1a0\uc694\uc77c"],"dayNamesShort":["\uc77c","\uc6d4","\ud654","\uc218","\ubaa9","\uae08","\ud1a0"],"dayNamesMin":["\uc77c","\uc6d4","\ud654","\uc218","\ubaa9","\uae08","\ud1a0"],"monthNames":["1\uc6d4","2\uc6d4","3\uc6d4","4\uc6d4","5\uc6d4","6\uc6d4","7\uc6d4","8\uc6d4","9\uc6d4","10\uc6d4","11\uc6d4","12\uc6d4"],"monthNamesShort":["1\uc6d4","2\uc6d4","3\uc6d4","4\uc6d4","5\uc6d4","6\uc6d4","7\uc6d4","8\uc6d4","9\uc6d4","10\uc6d4","11\uc6d4","12\uc6d4"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done"}};/* ]]> */ </script><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/pyeong-an.com\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WpvPushMenu = {"items":{"title":"Menu","description":"","type":"root","children":[{"url":"\/","title":"H\u041e\u041c\u0415","attr_title":"","description":"test description","classes":["home","menu-item","menu-item-type-custom","menu-item-object-custom"],"type":"item","children":[]},{"title":"\uad50\ud68c \uc18c\uac1c","description":"","type":"item","children":[{"url":"http:\/\/pyeong-an.com\/pages\/about-us\/","title":"\uad50\ud68c \uc18c\uac1c","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/?page_id=22179","title":"\uad50\ud68c \uc18c\uac1c","attr_title":"","description":"","classes":["","menu-item","menu-item-type-custom","menu-item-object-custom"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/pages\/staff\/","title":"\ub2f4\uc784\ubaa9\uc0ac \uc18c\uac1c","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/pages\/statement-of-faith\/","title":"\ud3c9\uc548\uad50\ud68c \uc5f0\ud601","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/pages\/contact-us\/","title":"\uc608\ubc30\uc21c\uc11c \ubc0f \uae38 \uc548\ub0b4","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/ministries\/","title":"\uae30\uad00 \ubc0f \uc870\uc9c1","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/%eb%8b%b4%ec%9e%84%eb%aa%a9%ec%82%ac-%ec%83%81%eb%8b%b4\/","title":"\ub2f4\uc784\ubaa9\uc0ac \uc0c1\ub2f4","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]}]},{"title":"\uc124\uad50 \ub9d0\uc500","description":"","type":"item","children":[{"url":"http:\/\/pyeong-an.com\/sermons\/","title":"\uc124\uad50 \ub9d0\uc500","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page","current-menu-ancestor","current-menu-parent","current_page_parent","current_page_ancestor"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/%ec%84%a4%ea%b5%90-%eb%a7%90%ec%94%80-%ec%9b%90%ea%b3%a0\/","title":"\ub9d0\uc500 \uc6d0\uace0","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page","current-menu-item","page_item","page-item-22837","current_page_item"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/?page_id=7123","title":"\uc124\uad50 \uc601\uc0c1","attr_title":"","description":"","classes":["","menu-item","menu-item-type-custom","menu-item-object-custom"],"type":"item","children":[]}]},{"title":"\uad50\ud68c \uc568\ubc94","description":"","type":"item","children":[{"url":"http:\/\/pyeong-an.com\/portfolio-layouts\/masonry-style\/","title":"\uad50\ud68c \uc568\ubc94","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/portfolio-layouts\/masonry-style\/","title":"\uc0ac\uc9c4 \ubc0f \uc601\uc0c1","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]}]},{"title":"\ud3c9\uc548 \ucee4\ubba4\ub2c8\ud2f0","description":"","type":"item","children":[{"url":"http:\/\/pyeong-an.com\/%ec%bb%a4%eb%ae%a4%eb%8b%88%ed%8b%b0\/","title":"\ud3c9\uc548 \ucee4\ubba4\ub2c8\ud2f0","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/%ea%b5%90%ed%9a%8c-%ec%86%8c%ec%8b%9d\/","title":"\uad50\ud68c \uc18c\uc2dd","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90\/","title":"\ud3c9\uc548\uc758 \uc77c\uc0c1","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/%ec%a7%88%eb%ac%b8%eb%8b%b5%eb%b3%80-%ea%b2%8c%ec%8b%9c%ed%8c%90\/","title":"\uc9c8\ubb38&\ub2f5\ubcc0","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/%ea%b1%b4%ec%9d%98%ec%82%ac%ed%95%ad\/","title":"\uac74\uc758\uc0ac\ud56d","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/%ec%9e%90%eb%a3%8c%ec%8b%a4\/","title":"\uc790\ub8cc\uc2e4","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/%ec%b0%ac%ec%96%91%eb%b0%a9\/","title":"\ucc2c\uc591\ubc29","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/%ea%b8%b0%eb%8f%84%eb%b0%a9\/","title":"\uac04\uc99d\uacfc \uae30\ub3c4","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/%ea%b0%84%ec%a6%9d-%ec%98%81%ec%83%81\/","title":"\uac04\uc99d \uc601\uc0c1","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/pyeong-an.com\/%ed%8f%89%ec%95%88%ec%9d%98-%ec%9b%83%ec%9d%8c\/","title":"\ud3c9\uc548\uc758 \uc6c3\uc74c","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]}]},{"url":"http:\/\/pyeong-an.com\/%ec%83%9d%eb%aa%85%ec%9d%98-%ec%8b%9c%eb%83%87%ea%b0%80\/","title":"\uc0dd\uba85\uc758 \uc2dc\ub0c7\uac00","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]}]},"back":"Back","jspath":"http:\/\/pyeong-an.com\/wp-content\/plugins\/vamtam-push-menu\/js\/","limit":"959"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/plugins/vamtam-push-menu/js/dist/push-menu.min.js?ver=2.0.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0\/?pageid=1&mod=list&wc-ajax=%%endpoint%%","i18n_view_cart":"\uc7a5\ubc14\uad6c\ub2c8 \ubcf4\uae30","cart_url":"http:\/\/pyeong-an.com\/%ec%9e%a5%eb%b0%94%ea%b5%ac%eb%8b%88\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//pyeong-an.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.1'></script>
+<script type='text/javascript' src='//pyeong-an.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0\/?pageid=1&mod=list&wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//pyeong-an.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/themes/church-event/vamtam/assets/js/plugins/thirdparty/jquery.matchheight.min.js?ver=0.5.1'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/themes/church-event/vamtam/assets/js/plugins/thirdparty/jquery.transit.min.js?ver=0.9.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPV_FRONT = {"content_width":"1260"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/themes/church-event/vamtam/assets/js/all.min.js?ver=19'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0\/?pageid=1&mod=list&wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//pyeong-an.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/themes/church-event/vamtam/assets/js/plugins/thirdparty/jquery.bxslider.js?ver=4.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var kboard_settings = {"home_url":"\/","site_url":"\/","post_url":"http:\/\/pyeong-an.com\/wp-admin\/admin-post.php","alax_url":"http:\/\/pyeong-an.com\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/pyeong-an.com\/wp-content\/plugins\/kboard","media_group":"5ac0c3dbb23f6"};
+var kboard_localize_strings = {"kboard_add_media":"KBoard \ubbf8\ub514\uc5b4 \ucd94\uac00","next":"\ub2e4\uc74c","prev":"\uc774\uc804","please_enter_the_title":"\uc81c\ubaa9\uc744 \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_author":"\uc791\uc131\uc790\ub97c \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_password":"\ube44\ubc00\ubc88\ud638\ub97c \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_CAPTCHA":"\uc606\uc5d0 \ubcf4\uc774\ub294 \ubcf4\uc548\ucf54\ub4dc\ub97c \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_name":"\uc774\ub984\uc744 \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_email":"\uc774\uba54\uc77c\uc744 \uc785\ub825\ud574\uc8fc\uc138\uc694.","you_have_already_voted":"\uc774\ubbf8 \ud22c\ud45c\ud588\uc2b5\ub2c8\ub2e4.","please_wait":"\uc7a0\uc2dc\ub9cc \uae30\ub2e4\ub824\uc8fc\uc138\uc694.","newest":"\ucd5c\uc2e0\uc21c","best":"\ucd94\ucc9c\uc21c","updated":"\uc5c5\ub370\uc774\ud2b8\uc21c","viewed":"\uc870\ud68c\uc21c","yes":"\uc608","no":"\uc544\ub2c8\uc694","did_it_help":"\ub3c4\uc6c0\uc774 \ub418\uc5c8\ub098\uc694?"};
+var kbaord_current = {"board_id":"7","content_uid":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pyeong-an.com/wp-content/plugins/kboard/template/js/script.js?ver=5.3'></script>
+<!-- W3TC-include-js-head -->
+</body>
+</html>
