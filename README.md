@@ -64,9 +64,15 @@ word2vec
 
 ## Reference
 
-* http://blog.theeluwin.kr/post/146591096133/한국어-word2vec
-* https://datascienceschool.net/view-notebook/6927b0906f884a67b0da9310d3a581ee/
-
+* Word Embedding의 직관적인 이해: Count Vector에서 Word2Vec에 이르기까지 [Source](https://www.nextobe.com/single-post/2017/06/20/Word-Embedding의-직관적인-이해-Count-Vector에서-Word2Vec에-이르기까지)
+* 한국어 Word2vec [Source](http://blog.theeluwin.kr/post/146591096133/한국어-word2vec)
+* 단어 임베딩과 word2vec [Source](https://datascienceschool.net/view-notebook/6927b0906f884a67b0da9310d3a581ee/)
+* Word2Vec으로 문장 분류하기 [Source](https://ratsgo.github.io/natural%20language%20processing/2017/03/08/word2vec/)
+* 한글 데이터 머신러닝 및 word2vec을 이용한 유사도 분석 [Source](https://www.nextobe.com/single-post/2017/06/28/한글-데이터-머신러닝-및-word2vec을-이용한-유사도-분석)
+* models.word2vec - Deep learning with word2vec [Source](https://radimrehurek.com/gensim/models/word2vec.html)
+* SciPy Hierarchical Clustering and Dendrogram Tutorial [Source](https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/)
+* K Means Clustering Example with Word2Vec in Data Mining or Machine Learning [Source](http://ai.intelligentonlinetools.com/ml/k-means-clustering-example-word2vec/)
+* Using Word2Vec and TSNE [Source](https://www.jeffreythompson.org/blog/2017/02/13/using-word2vec-and-tsne/)
 
 ## 분석 #1
 
@@ -77,6 +83,4 @@ word2vec
 
 # 데이터 개요
 
-대한예수교 장로회 평안교회 설교 원고
-
-http://pyeong-an.com/설교-말씀-원고/
+대한예수교 장로회 평안교회 설교 원고 [Source](http://pyeong-an.com/설교-말씀-원고/)
