@@ -9,6 +9,7 @@ class ArticleList(object):
     def get_article_links(self):
         while True:
             url = self.get_page_url()
+            self.next()
             response = requests.get(url)
             content = response.content
             soup = BeautifulSoup(content, 'html5lib')

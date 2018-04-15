@@ -43,6 +43,11 @@ Chinese Value Survey에서 사용하는 40개 유교 관련 단어 사용하여 
 클리앙 등 일반 커뮤니티
 기독교 관련 커뮤니티?
 
+* 설교문
+
+ * 대한예수교 장로회 평안교회 설교문 [link](http://pyeong-an.com/%EC%84%A4%EA%B5%90-%EB%A7%90%EC%94%80-%EC%9B%90%EA%B3%A0/)
+ * 높은뜻 연합선교회 설교문 [link](http://www.godswill.or.kr/index.php?mid=media_2003)
+
 
 ## 참고 분석 케이스
 
