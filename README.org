@@ -8,30 +8,23 @@
 ** 참고 분석 케이스
 
 Text Mining the Bible with R, Pt. 1
-http://emelineliu.com/2016/01/10/bible1/
-http://emelineliu.com/2016/03/20/bible2/
+ - [[http://emelineliu.com/2016/01/10/bible1/][Part 1]]
+ - [[http://emelineliu.com/2016/03/20/bible2/][Part 2]]
 
 
-Dive Into NLTK, Part X: Play with Word2Vec Models based on NLTK Corpus
-http://textminingonline.com/dive-into-nltk-part-x-play-with-word2vec-models-based-on-nltk-corpus
-
-
-Dive into NLP with Deep Learning, Part I: Getting Started with DL4NLP
-http://textminingonline.com/dive-into-nlp-with-deep-learning-part-i-getting-started-with-dl4nlp
-
-
-word2vec
+ - [[http://textminingonline.com/dive-into-nltk-part-x-play-with-word2vec-models-based-on-nltk-corpus][Dive Into NLTK, Part X: Play with Word2Vec Models based on NLTK Corpus]]
+ - [[http://textminingonline.com/dive-into-nlp-with-deep-learning-part-i-getting-started-with-dl4nlp][Dive into NLP with Deep Learning, Part I: Getting Started with DL4NLP]]
 
 
 ** Reference
 
- - Word Embedding의 직관적인 이해: Count Vector에서 Word2Vec에 이르기까지 [Source](https://www.nextobe.com/single-post/2017/06/20/Word-Embedding의-직관적인-이해-Count-Vector에서-Word2Vec에-이르기까지)
- - 한국어 Word2vec [Source](http://blog.theeluwin.kr/post/146591096133/한국어-word2vec)
- - 단어 임베딩과 word2vec [Source](https://datascienceschool.net/view-notebook/6927b0906f884a67b0da9310d3a581ee/)
- - Word2Vec으로 문장 분류하기 [Source](https://ratsgo.github.io/natural%20language%20processing/2017/03/08/word2vec/)
- - 한글 데이터 머신러닝 및 word2vec을 이용한 유사도 분석 [Source](https://www.nextobe.com/single-post/2017/06/28/한글-데이터-머신러닝-및-word2vec을-이용한-유사도-분석)
- - models.word2vec - Deep learning with word2vec [Source](https://radimrehurek.com/gensim/models/word2vec.html)
- - SciPy Hierarchical Clustering and Dendrogram Tutorial [Source](https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/)
- - K Means Clustering Example with Word2Vec in Data Mining or Machine Learning [Source](http://ai.intelligentonlinetools.com/ml/k-means-clustering-example-word2vec/)
- - Using Word2Vec and TSNE [Source](https://www.jeffreythompson.org/blog/2017/02/13/using-word2vec-and-tsne/)
- - Visualizing Word Vectors with t-SNE [Source](https://www.kaggle.com/jeffd23/visualizing-word-vectors-with-t-sne)
+ - Word Embedding의 직관적인 이해: Count Vector에서 Word2Vec에 이르기까지 ([[https://www.nextobe.com/single-post/2017/06/20/Word-Embedding의-직관적인-이해-Count-Vector에서-Word2Vec에-이르기까지][link]])
+ - 한국어 Word2vec ([[http://blog.theeluwin.kr/post/146591096133/한국어-word2vec][link]])
+ - 단어 임베딩과 word2vec ([[https://datascienceschool.net/view-notebook/6927b0906f884a67b0da9310d3a581ee/][link]])
+ - Word2Vec으로 문장 분류하기 ([[https://ratsgo.github.io/natural%20language%20processing/2017/03/08/word2vec/][link]])
+ - 한글 데이터 머신러닝 및 word2vec을 이용한 유사도 분석 ([[https://www.nextobe.com/single-post/2017/06/28/한글-데이터-머신러닝-및-word2vec을-이용한-유사도-분석][link]])
+ - models.word2vec - Deep learning with word2vec ([[https://radimrehurek.com/gensim/models/word2vec.html][link]])
+ - SciPy Hierarchical Clustering and Dendrogram Tutorial ([[https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/][link]])
+ - K Means Clustering Example with Word2Vec in Data Mining or Machine Learning ([[http://ai.intelligentonlinetools.com/ml/k-means-clustering-example-word2vec/][link]])
+ - Using Word2Vec and TSNE ([[https://www.jeffreythompson.org/blog/2017/02/13/using-word2vec-and-tsne/][link]])
+ - Visualizing Word Vectors with t-SNE ([[https://www.kaggle.com/jeffd23/visualizing-word-vectors-with-t-sne][link]])
