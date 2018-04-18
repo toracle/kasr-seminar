@@ -2,7 +2,15 @@
 
 import os
 import gensim
+import matplotlib
+import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
+
 from konlpy.tag import Twitter, Hannanum, Kkma
+from sklearn.manifold import TSNE
+
+
+matplotlib.rc('font', family='Noto Sans CJK KR')
 
 
 class SentenceReader(object):
@@ -61,18 +69,10 @@ class SermonVoca(object):
         sentences_vocab = SentenceReader('outputs/sermon-{}-corpus.txt'.format(self.name))
         sentences_train = SentenceReader('outputs/sermon-{}-corpus.txt'.format(self.name))
 
-        self.model = gensim.models.Word2Vec(sg=1)
+        self.model = gensim.models.Word2Vec(sg=1, window=15, min_count=50)
         self.model.build_vocab(sentences_vocab)
         self.model.train(sentences_train, total_examples=self.model.corpus_count, epochs=self.model.epochs)
         self.model.save('models/{}'.format(self.name))
-
-    def reduce_model(self):
-        vectors = []
-        labels = []
-        for word in self.model.wv.vocab:
-            w, pos = word.split('/')
-            vectors.append(self.model.wv[word])
-            labels.append(word)
 
     def filter_tag(self, tag):
         return tag not in set(['J', 'E', 'X'])
@@ -90,3 +90,32 @@ class SermonVoca(object):
 
     def most_similar(self, positive=None, negative=None, topn=10):
         return self.model.wv.most_similar(positive=positive, negative=negative, topn=topn)
+
+    def tsne_plot(self):
+        labels = []
+        tokens = []
+
+        for word in self.model.wv.vocab:
+            tokens.append(self.model[word])
+            labels.append(word)
+
+        tsne_model = TSNE(perplexity=40, n_components=2, n_iter=5000, random_state=23)
+        new_values = tsne_model.fit_transform(tokens)
+
+        x = []
+        y = []
+        for value in new_values:
+            x.append(value[0])
+            y.append(value[1])
+
+        plt.figure(figsize=(16, 16))
+
+        for i, _ in enumerate(x):
+            plt.scatter(x[i], y[i])
+            plt.annotate(labels[i],
+                         xy=(x[i], y[i]),
+                         xytext=(5, 2),
+                         textcoords='offset points',
+                         ha='right',
+                         va='bottom')
+        return plt
