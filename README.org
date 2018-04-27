@@ -5,17 +5,6 @@
  - [[file:case1-sermon-comparison.org][분석 사례 1: (개신교) 설교자에 따른 어휘 체계 비교]]
 
 
-** 참고 분석 케이스
-
-Text Mining the Bible with R, Pt. 1
- - [[http://emelineliu.com/2016/01/10/bible1/][Part 1]]
- - [[http://emelineliu.com/2016/03/20/bible2/][Part 2]]
-
-
- - [[http://textminingonline.com/dive-into-nltk-part-x-play-with-word2vec-models-based-on-nltk-corpus][Dive Into NLTK, Part X: Play with Word2Vec Models based on NLTK Corpus]]
- - [[http://textminingonline.com/dive-into-nlp-with-deep-learning-part-i-getting-started-with-dl4nlp][Dive into NLP with Deep Learning, Part I: Getting Started with DL4NLP]]
-
-
 ** Reference
 
  - Word Embedding의 직관적인 이해: Count Vector에서 Word2Vec에 이르기까지 ([[https://www.nextobe.com/single-post/2017/06/20/Word-Embedding의-직관적인-이해-Count-Vector에서-Word2Vec에-이르기까지][link]])
@@ -28,3 +17,6 @@ Text Mining the Bible with R, Pt. 1
  - K Means Clustering Example with Word2Vec in Data Mining or Machine Learning ([[http://ai.intelligentonlinetools.com/ml/k-means-clustering-example-word2vec/][link]])
  - Using Word2Vec and TSNE ([[https://www.jeffreythompson.org/blog/2017/02/13/using-word2vec-and-tsne/][link]])
  - Visualizing Word Vectors with t-SNE ([[https://www.kaggle.com/jeffd23/visualizing-word-vectors-with-t-sne][link]])
+ - Text Mining the Bible with R, [[http://emelineliu.com/2016/01/10/bible1/][Part 1]], [[http://emelineliu.com/2016/03/20/bible2/][Part 2]]
+ - [[http://textminingonline.com/dive-into-nltk-part-x-play-with-word2vec-models-based-on-nltk-corpus][Dive Into NLTK, Part X: Play with Word2Vec Models based on NLTK Corpus]]
+ - [[http://textminingonline.com/dive-into-nlp-with-deep-learning-part-i-getting-started-with-dl4nlp][Dive into NLP with Deep Learning, Part I: Getting Started with DL4NLP]]
