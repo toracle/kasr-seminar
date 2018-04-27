@@ -67,7 +67,9 @@ class SermonVoca(object):
                             _l = self.clean_punctuation(l)
                             if not _l:
                                 continue
-                            sentence = ['{}/{}'.format(word, tag) for word, tag in processor.pos(_l) if self.filter_tag(tag) and self.filter_word(word)]
+                            sentence = ['{}/{}'.format(word, tag)
+                                        for word, tag in processor.pos(_l)
+                                        if self.filter_tag(tag) and self.filter_word(word)]
                             if len(sentence) > 2:
                                 fout.write(' '.join(sentence) + '\n')
 
@@ -89,9 +91,7 @@ class SermonVoca(object):
             float(word)
             return False
         except ValueError:
-            if len(word) > 1:
-                return True
-            return False
+            return True
 
     def clean_punctuation(self, line):
         return line.replace('"', '').replace("'", '').replace(',', '').\
@@ -113,11 +113,18 @@ class SermonVoca(object):
             for word in model.wv.vocab:
                 fout.write('{}\n'.format(word))
 
-    def tsne_plot(self):
+    def tsne_plot(self, common_words=None):
         labels = []
         tokens = []
 
         for word in self.model.wv.vocab:
+            if common_words and (word not in common_words):
+                continue
+
+            _word, _ = word.split('/')
+            if not len(_word) > 1:
+                continue
+
             tokens.append(self.model[word])
             labels.append(word)
 
@@ -129,6 +136,8 @@ class SermonVoca(object):
         for value in new_values:
             x.append(value[0])
             y.append(value[1])
+
+        print('Draw {} words'.format(len(new_values)))
 
         plt.figure(figsize=(16, 16))
 
