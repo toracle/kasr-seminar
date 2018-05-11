@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 
+import os
 import argparse
 from kasr.sermons.core import SermonVoca
 
 
 def gather_common_words():
-    datasets = ['buksuwon', 'pyeongan']
+    datasets = os.listdir('data')
+    print('datasets: {}'.format(datasets))
     wordset_per_dataset = {}
     for dataset in datasets:
         voca = SermonVoca(dataset)
@@ -18,7 +20,7 @@ def gather_common_words():
     return common_wordset
 
 
-def draw(dataset, common_words):
+def draw_tsne(dataset, common_words):
     voca = SermonVoca(dataset)
     voca.load()
     plt = voca.tsne_plot(common_words)
@@ -33,4 +35,4 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     common_words = gather_common_words() if args.common else None
-    draw(args.dataset, common_words)
+    draw_tsne(args.dataset, common_words)

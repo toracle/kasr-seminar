@@ -24,6 +24,7 @@ class GodsWillArticle(Article):
 
 class GodsWillArticlelist(ArticleList):
     def __init__(self):
+        self.src = 'igodswill'
         self.domain = 'http://www.godswill.or.kr'
         self.base_url = self.domain + 'index.php?mid=media_{}&page={}'
         self.year = 2003

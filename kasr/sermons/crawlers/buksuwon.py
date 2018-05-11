@@ -10,12 +10,8 @@ class BuksuwonArticle(Article):
         self.article_src = 'buksuwon'
 
     def get_uid(self, url):
-        params = url[url.find('?'):]
-        kv_list = params.split('&')
-        for kv in kv_list:
-            k, v = kv.split('=')
-            if k == 'num':
-                return v
+        query_params = self.parse_query_params(url)
+        return query_params.get('num')
 
     def parse_text(self, soup):
         element = soup.select('#AB_viewContent')[0]
@@ -24,6 +20,7 @@ class BuksuwonArticle(Article):
 
 class BuksuwonArticleList(ArticleList):
     def __init__(self):
+        self.src = 'buksuwon'
         self.domain = 'http://buksuwon.org'
         self.base_url = self.domain + '/main/sub.html?boardID=www68&page={}'
         self.page_url = self.domain + '/core/anyboard/content.html?Mode=view&boardID=www68&num={}'

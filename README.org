@@ -3,6 +3,7 @@
  - [[file:text-mining.org][텍스트 마이닝 소개]]
  - [[file:sr-text-mining.org][종교사회학 분야에서의 텍스트 마이닝 적용 가능성]]
  - [[file:case1-sermon-comparison.org][분석 사례 1: (개신교) 설교자에 따른 어휘 체계 비교]]
+ - [[file:case2-news-comparison.org][분석 사례 2: (개신교) 언론에 따른 어휘 체계 비교]]
 
 
 ** Reference

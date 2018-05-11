@@ -10,12 +10,8 @@ class PyeonganArticle(Article):
         self.article_src = 'pyeongan'
 
     def get_uid(self, url):
-        params = url[url.find('?'):]
-        kv_list = params.split('&')
-        for kv in kv_list:
-            k, v = kv.split('=')
-            if k == 'uid':
-                return v
+        query_params = self.parse_query_params(url)
+        return query_params.get('uid')
 
     def parse_text(self, soup):
         element = soup.select('.content-view')[0]
@@ -24,6 +20,7 @@ class PyeonganArticle(Article):
 
 class PyeonganArticleList(ArticleList):
     def __init__(self):
+        self.src = 'pyeongan'
         self.domain = 'http://pyeong-an.com'
         self.base_url = self.domain + '/설교-말씀-원고/?pageid={}'
         self.page = 1

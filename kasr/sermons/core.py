@@ -5,6 +5,7 @@ import gensim
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
+from scipy.cluster.hierarchy import dendrogram, linkage
 
 from konlpy.tag import Twitter, Hannanum, Kkma
 from sklearn.manifold import TSNE
@@ -36,6 +37,20 @@ class SentenceReader(object):
 class SermonVoca(object):
     def __init__(self, name):
         self.name = name
+
+    def preprocess(self):
+        ensure_dir('outputs')
+        ensure_dir('models')
+        ensure_dir('words')
+
+        self.make_corpus()
+
+    def modeling(self):
+        ensure_dir('outputs')
+        ensure_dir('models')
+        ensure_dir('words')
+
+        self.make_model()
 
     def make(self):
         ensure_dir('outputs')
@@ -77,7 +92,7 @@ class SermonVoca(object):
         sentences_vocab = SentenceReader('outputs/sermon-{}-corpus.txt'.format(self.name))
         sentences_train = SentenceReader('outputs/sermon-{}-corpus.txt'.format(self.name))
 
-        self.model = gensim.models.Word2Vec(sg=1, window=15, min_count=50)
+        self.model = gensim.models.Word2Vec(sg=1, min_count=50, max_vocab_size=10000)
         self.model.build_vocab(sentences_vocab)
         self.model.train(sentences_train, total_examples=self.model.corpus_count, epochs=self.model.epochs)
         self.model.save('models/{}'.format(self.name))
@@ -149,4 +164,13 @@ class SermonVoca(object):
                          textcoords='offset points',
                          ha='right',
                          va='bottom')
+        return plt
+
+    def dendrogram(self, common_words=None):
+        l = linkage(self.model.wv.syn0, method='complete', metric='seuclidean')
+        print(l)
+
+        plt.figure(figsize=(10, 100))
+        dendrogram(l, leaf_font_size=10.0, orientation='left',
+                   leaf_label_func=lambda v: str(self.model.wv.index2word[v]))
         return plt
