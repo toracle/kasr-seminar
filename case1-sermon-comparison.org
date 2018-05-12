@@ -117,7 +117,7 @@
 
   matplotlib.rc('font', family='Noto Sans CJK KR')
 
-  plt.figure(figsize=(15, 5))
+  plt.figure(figsize=(10, 5))
   corpus_pyeongan.plot(20)
 #+END_SRC
 
@@ -126,7 +126,7 @@
 [[file:assets/pyeongan-words-freq-dist.png]]
 
 #+BEGIN_SRC ipython :session :results raw :exports both :ipyfile assets/buksuwon-words-freq-dist.png
-  plt.figure(figsize=(15, 5))
+  plt.figure(figsize=(10, 5))
   corpus_buksuwon.plot(20)
 #+END_SRC
 
