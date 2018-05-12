@@ -109,6 +109,8 @@
  - 북수원교회: 18,863 단어
 
 
+빈도 상위 20개 단어
+
 #+BEGIN_SRC ipython :session :results raw :exports both :ipyfile assets/pyeongan-words-freq-dist.png
   %matplotlib inline
   import matplotlib
