@@ -113,7 +113,7 @@ class SermonVoca(object):
             replace('....', '').replace('...', '').replace('..', '').\
             replace('(', ' ').replace(')', ' ').replace('?', '').replace('!', '').\
             replace('“', '').replace('”', '').replace(chr(8216), '').replace(chr(8217), '').\
-            replace('…', '').\
+            replace('…', '').replace('', '').\
             strip()
 
     def load(self):
