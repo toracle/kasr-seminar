@@ -45,9 +45,6 @@
 
 각 데이터를 수집하기 위해, 웹 문서 수집기를 작성하여 자동으로 웹 문서를 수집.
 
- - 평안교회: 설교문 160건 (약 3년간)
- - 북수원교회: 설교문 175건 (약 3년간)
-
 
 ** 전처리
 
@@ -70,6 +67,72 @@
  - t-SNE를 사용하여 2차원으로 차원 축소
  - 2차원 평면에 시각화
 
+
+** 기초 통계
+
+문서(설교문) 수
+
+ - 평안교회: 설교문 160건 (약 3년간)
+ - 북수원교회: 설교문 175건 (약 3년간)
+
+
+분석에 사용된 문장 수:
+
+ - 평안교회: 18,174 문장
+ - 북수원교회: 39,466 문장
+
+
+#+BEGIN_SRC ipython :session :results raw output :exports both
+  import os
+  from nltk import Text
+
+  def get_text(dataset):
+      with open(os.path.join('outputs', 'sermon-{}-corpus.txt'.format(dataset))) as fin:
+          for line in fin:
+              words = line.split()
+              for word in words:
+                  yield word
+
+  corpus_pyeongan = Text(get_text('pyeongan'))
+  print(len(set(corpus_pyeongan.tokens)))
+  corpus_buksuwon = Text(get_text('buksuwon'))
+  print(len(set(corpus_buksuwon.tokens)))
+#+END_SRC
+
+#+RESULTS:
+13145
+18863
+
+
+분석에 사용된 unique한 단어 수:
+ - 평안교회: 13,145 단어
+ - 북수원교회: 18,863 단어
+
+
+#+BEGIN_SRC ipython :session :results raw :exports both :ipyfile assets/pyeongan-words-freq-dist.png
+  %matplotlib inline
+  import matplotlib
+  import matplotlib.pyplot as plt
+  import matplotlib.font_manager as fm
+
+  matplotlib.rc('font', family='Noto Sans CJK KR')
+
+  plt.figure(figsize=(15, 5))
+  corpus_pyeongan.plot(20)
+#+END_SRC
+
+#+RESULTS:
+# Out[18]:
+[[file:assets/pyeongan-words-freq-dist.png]]
+
+#+BEGIN_SRC ipython :session :results raw :exports both :ipyfile assets/buksuwon-words-freq-dist.png
+  plt.figure(figsize=(15, 5))
+  corpus_buksuwon.plot(20)
+#+END_SRC
+
+#+RESULTS:
+# Out[19]:
+[[file:assets/buksuwon-words-freq-dist.png]]
 
 ** 1차 시각화 결과
 
