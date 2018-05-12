@@ -6,7 +6,9 @@ from kasr.sermons.core import SermonVoca
 
 def run():
     voca_list = {'pyeongan': SermonVoca('pyeongan').load(),
-                 'buksuwon': SermonVoca('buksuwon').load()}
+                 'buksuwon': SermonVoca('buksuwon').load(),
+                 'buksuwon': SermonVoca('newsnjoy').load(),
+                 'buksuwon': SermonVoca('chtoday').load()}
     topn = 10
 
     while True:
