@@ -4,8 +4,8 @@
 
 웹사이트에 기사를 게제하는 인터넷 언론사들의 기사를 수집.
 
- - 크리스천투데이
- - 뉴스앤조이
+ - [[http://www.christiantoday.co.kr/archives/page1.htm][크리스천투데이]]
+ - [[http://www.newsnjoy.or.kr/news/articleList.html?page=1&view_type=tm][뉴스앤조이]]
 
 
 ** 데이터 수집
@@ -35,19 +35,22 @@
 
 분석에 사용된 문장 수:
 
+(크리스천투데이 기사는, 전처리를 시간 안에 마무리하지 못하여 약 30% 정도의 분량만 가지고 분석을 진행함.)
+
 #+BEGIN_SRC sh
-  # wc -l outputs/sermon-chtoday-corpus.txt
+  wc -l outputs/sermon-chtoday2-corpus.txt
   wc -l outputs/sermon-newsnjoy-corpus.txt
 #+END_SRC
 
 #+RESULTS:
-:  outputs/sermon-newsnjoy-corpus.txt
+| 3857610 | outputs/sermon-chtoday2-corpus.txt |
+| 2208627 | outputs/sermon-newsnjoy-corpus.txt |
 
- - 크리스천투데이:  문장
+ - 크리스천투데이: 3,857,610 문장
  - 뉴스앤조이: 2,208,627 문장
 
 
-#+BEGIN_SRC ipython :session :results raw output :exports both
+#+BEGIN_SRC ipython :session :results output :exports both
   import os
   from nltk import Text
 
@@ -60,11 +63,17 @@
 
   # corpus_chtoday = Text(get_text('chtoday'))
   # print(len(set(corpus_chtoday.tokens)))
+
+  corpus_chtoday = Text(get_text('chtoday2'))
+  print(len(set(corpus_chtoday.tokens)))
+
   corpus_newsnjoy = Text(get_text('newsnjoy'))
   print(len(set(corpus_newsnjoy.tokens)))
 #+END_SRC
 
 #+RESULTS:
+: 451014
+: 625501
 625501
 
 분석에 사용된 unique한 단어 수:
